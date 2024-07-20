@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>945</width>
+    <width>1267</width>
     <height>640</height>
    </rect>
   </property>
@@ -242,13 +242,45 @@
      <string>Harris Corner</string>
     </property>
    </widget>
+   <widget class="QLabel" name="sift_label_7">
+    <property name="geometry">
+     <rect>
+      <x>920</x>
+      <y>20</y>
+      <width>241</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>camera.jpg</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="SIFTButton7">
+    <property name="geometry">
+     <rect>
+      <x>930</x>
+      <y>250</y>
+      <width>211</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>SIFT Detector</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>945</width>
+     <width>1267</width>
      <height>21</height>
     </rect>
    </property>
